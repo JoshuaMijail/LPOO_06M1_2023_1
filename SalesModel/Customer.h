@@ -14,5 +14,6 @@ namespace SalesModel {
         int CustomerPoints;
         Customer();
         Customer(int id, String^ name, String^ docNumber, String^address, String^ phoneNumber, String^email,  int customerPoints);
+        //20172392
     };
 }

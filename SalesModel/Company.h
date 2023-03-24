@@ -13,6 +13,7 @@ namespace SalesModel {
 	public:
 		property String^ WebPage;
 		property String^ Agent;  
-		//20172392
+		//20172392 
+		//Joshua Lizarbe
     };
 }
