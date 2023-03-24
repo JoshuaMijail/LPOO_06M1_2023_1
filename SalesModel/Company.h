@@ -12,6 +12,6 @@ namespace SalesModel {
     public ref class Company : public Customer {
 	public:
 		property String^ WebPage;
-		property String^ Agent;
+		property String^ Agent;  
     };
 }
